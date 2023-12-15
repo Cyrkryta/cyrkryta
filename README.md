@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cyrkryta
-- 👀 I’m interested in crossing between AI, software development, and Cognitive Sciences
+- 👀 I’m interested in crossfield of AI, software development, and Cognitive Sciences
 - 🎓 I’m currently doing my master's in IT & Cognition at the University of Copenhagen
 - 🧑‍💻 I'm always looking for challenges and learning in the field of AI
 - 💞️ I’m looking to collaborate on machine learnings projects
